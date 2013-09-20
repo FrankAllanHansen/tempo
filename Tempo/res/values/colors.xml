@@ -1,0 +1,5 @@
+<resources>
+    <color name="label_text_active">#000</color>
+    <color name="label_text">#85000000</color>
+
+</resources>

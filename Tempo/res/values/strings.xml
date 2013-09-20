@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tempo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    
+    
+    <string name="label_distance">Afstand</string>
+    <string name="label_hours">Timer</string>
+    <string name="label_minutes">Min</string>
+    <string name="label_seconds">Sek</string>
+    
+    <string name="distance_5">5 Km</string>
+    <string name="distance_10">5 Km</string>
+    <string name="distance_hma">Halvmarathon</string>
+    <string name="distance_ma">Marathon</string>
+    
+    <string-array name="distance_unit_array">
+        <item>Km</item>
+        <item>Mil</item>
+    </string-array>
+ 
+</resources>
